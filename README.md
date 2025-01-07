@@ -73,5 +73,5 @@ The TalentScout Hiring Assistant is an AI-powered chatbot designed for a fiction
 
 ---
 
-For any questions or support, please contact [[your-email@example.com](mailto\:your-email@example.com)].
+For any questions or support, please contact [[ghodkiatharva@gmail.com](mailto\:ghodkiatharva@gmail.com)].
 
